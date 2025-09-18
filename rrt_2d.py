@@ -4,7 +4,7 @@ from algorithm.search_space import space
 import numpy as np
 
 # Set the random seed for reproducibility of results
-np.random.seed(4)
+np.random.seed(14)
 
 # Parse command-line arguments
 parser = argparse.ArgumentParser(
@@ -86,7 +86,8 @@ rrt_algorithm = RRT(
 # Returns:
 # - found_path: if the algorithm found a path in the space constraints
 # - num_samples: number of samples it took to find a path to the goal
-found_path, num_samples, n_tries_to_place_node = rrt_algorithm.execute()
+found_path, num_samples, n_tries_to_place_node, path_distance = rrt_algorithm.execute()
 
 print(f"Found Path: {found_path}")
+print(f"Path Distance: {path_distance}")
 print(f"Number of samples: {num_samples}")

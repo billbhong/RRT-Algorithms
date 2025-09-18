@@ -52,6 +52,7 @@ class RRT:
         """
         plotter = LiveRRTPlot(self.space, live=self.live)
         path = None
+        path_distance = 0
         found_path = False
         num_samples = 0
         n_tries_to_place_node = 0
@@ -92,8 +93,11 @@ class RRT:
                     plotter.add_node(steered, parent_pt)
                 if self.space.close_to_goal(steered):
                     path = self.rrt_tree.path_to_node(nid)  # type: ignore
+                    path_distance = self.rrt_tree.distance_to_node_from_root(path)
                     found_path = True
                     break
+                
+            # If the search is taking too long, end it.
             if n_tries_to_place_node == self.space.n_samples * 10:
                 break
             
@@ -113,4 +117,4 @@ class RRT:
 
         plt.close()
 
-        return found_path, num_samples, n_tries_to_place_node
+        return found_path, num_samples, n_tries_to_place_node, path_distance

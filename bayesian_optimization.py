@@ -71,7 +71,7 @@ def black_box_function(step_size, theta, turn_percent, bias_percent):
     )
 
     # Execute the RRT algorithm
-    found_path, num_samples, n_tries_to_place = rrt_algorithm.execute()
+    found_path, num_samples, n_tries_to_place, path_distance = rrt_algorithm.execute()
 
     # Objective: Minimize num_samples if path is found.
     # BayesianOptimization maximizes, so we return negative of what we want to minimize.

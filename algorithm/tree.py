@@ -96,24 +96,29 @@ class rrt_tree(object):
 
             self.node_count -= 1
             return None, None
-
-    def poses_to_node(self, node_nid: str):
+    
+    def distance_to_node_from_root(self, path_nids) -> float:
         """
-        Retrieve the sequence of poses from the root to the specified node.
+        Calculate the total distance from the root node to the specified node.
 
         Args:
             node_nid (str): The identifier of the target node.
 
         Returns:
-            List[np.ndarray]: A list of positions representing the path from the root to the target node.
+            float: The total distance from the root node to the target node.
         """
-        poses = []
 
-        for nid in self.tree.rsearch(nid=node_nid):
-            node = self.tree[nid]
-            poses.append(node.data.array)
-
-        return poses
+        total_distance = 0.0
+        for i in range(len(path_nids) - 1):
+            current_node_id = path_nids[i]
+            next_node_id = path_nids[i+1]
+            
+            current_pose = self.tree[current_node_id].data.array
+            next_pose = self.tree[next_node_id].data.array
+            
+            total_distance += dist_between_points(current_pose, next_pose)
+            
+        return total_distance # type: ignore
 
     def path_to_node(self, nid: str) -> list[str]:
         """
