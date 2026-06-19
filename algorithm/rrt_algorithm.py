@@ -118,3 +118,6 @@ class RRT:
         plt.close()
 
         return found_path, num_samples, n_tries_to_place_node, path_distance
+    
+    def reset(self):
+        self.rrt_tree.reset()

@@ -1,0 +1,1209 @@
+{
+    "1": {
+        "found_path": true,
+        "num_samples": 50,
+        "n_tries_to_place_node": 1679,
+        "path_distance": 170.10600669954837
+    },
+    "2": {
+        "found_path": true,
+        "num_samples": 658,
+        "n_tries_to_place_node": 9527,
+        "path_distance": 258.8569667167041
+    },
+    "3": {
+        "found_path": true,
+        "num_samples": 219,
+        "n_tries_to_place_node": 5396,
+        "path_distance": 229.2733133776522
+    },
+    "4": {
+        "found_path": true,
+        "num_samples": 156,
+        "n_tries_to_place_node": 4391,
+        "path_distance": 221.8774000428892
+    },
+    "5": {
+        "found_path": true,
+        "num_samples": 271,
+        "n_tries_to_place_node": 3826,
+        "path_distance": 184.89783336907436
+    },
+    "6": {
+        "found_path": true,
+        "num_samples": 246,
+        "n_tries_to_place_node": 3233,
+        "path_distance": 251.46105338194118
+    },
+    "7": {
+        "found_path": true,
+        "num_samples": 259,
+        "n_tries_to_place_node": 6481,
+        "path_distance": 258.85696671670405
+    },
+    "8": {
+        "found_path": true,
+        "num_samples": 170,
+        "n_tries_to_place_node": 2155,
+        "path_distance": 207.0855733733633
+    },
+    "9": {
+        "found_path": false,
+        "num_samples": 208,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "10": {
+        "found_path": true,
+        "num_samples": 172,
+        "n_tries_to_place_node": 3168,
+        "path_distance": 199.68966003860032
+    },
+    "11": {
+        "found_path": true,
+        "num_samples": 59,
+        "n_tries_to_place_node": 1238,
+        "path_distance": 184.89783336907436
+    },
+    "12": {
+        "found_path": true,
+        "num_samples": 355,
+        "n_tries_to_place_node": 3872,
+        "path_distance": 192.29374670383731
+    },
+    "13": {
+        "found_path": true,
+        "num_samples": 357,
+        "n_tries_to_place_node": 10422,
+        "path_distance": 229.27331337765224
+    },
+    "14": {
+        "found_path": true,
+        "num_samples": 145,
+        "n_tries_to_place_node": 1619,
+        "path_distance": 236.6692267124152
+    },
+    "15": {
+        "found_path": true,
+        "num_samples": 394,
+        "n_tries_to_place_node": 5630,
+        "path_distance": 199.6896600386003
+    },
+    "16": {
+        "found_path": true,
+        "num_samples": 216,
+        "n_tries_to_place_node": 5400,
+        "path_distance": 251.46105338194116
+    },
+    "17": {
+        "found_path": true,
+        "num_samples": 191,
+        "n_tries_to_place_node": 3748,
+        "path_distance": 199.6896600386003
+    },
+    "18": {
+        "found_path": false,
+        "num_samples": 1251,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "19": {
+        "found_path": true,
+        "num_samples": 147,
+        "n_tries_to_place_node": 10351,
+        "path_distance": 207.0855733733633
+    },
+    "20": {
+        "found_path": true,
+        "num_samples": 40,
+        "n_tries_to_place_node": 2502,
+        "path_distance": 170.10600669954837
+    },
+    "21": {
+        "found_path": true,
+        "num_samples": 253,
+        "n_tries_to_place_node": 3544,
+        "path_distance": 214.48148670812623
+    },
+    "22": {
+        "found_path": true,
+        "num_samples": 76,
+        "n_tries_to_place_node": 1554,
+        "path_distance": 214.4814867081263
+    },
+    "23": {
+        "found_path": true,
+        "num_samples": 64,
+        "n_tries_to_place_node": 1152,
+        "path_distance": 207.0855733733633
+    },
+    "24": {
+        "found_path": true,
+        "num_samples": 253,
+        "n_tries_to_place_node": 3090,
+        "path_distance": 251.46105338194116
+    },
+    "25": {
+        "found_path": true,
+        "num_samples": 123,
+        "n_tries_to_place_node": 3541,
+        "path_distance": 214.48148670812628
+    },
+    "26": {
+        "found_path": true,
+        "num_samples": 1503,
+        "n_tries_to_place_node": 16678,
+        "path_distance": 236.66922671241517
+    },
+    "27": {
+        "found_path": true,
+        "num_samples": 392,
+        "n_tries_to_place_node": 10848,
+        "path_distance": 229.27331337765222
+    },
+    "28": {
+        "found_path": true,
+        "num_samples": 874,
+        "n_tries_to_place_node": 15223,
+        "path_distance": 266.25288005146706
+    },
+    "29": {
+        "found_path": true,
+        "num_samples": 337,
+        "n_tries_to_place_node": 4305,
+        "path_distance": 214.48148670812625
+    },
+    "30": {
+        "found_path": true,
+        "num_samples": 368,
+        "n_tries_to_place_node": 4251,
+        "path_distance": 251.46105338194113
+    },
+    "31": {
+        "found_path": true,
+        "num_samples": 133,
+        "n_tries_to_place_node": 944,
+        "path_distance": 199.6896600386003
+    },
+    "32": {
+        "found_path": true,
+        "num_samples": 68,
+        "n_tries_to_place_node": 545,
+        "path_distance": 192.2937467038373
+    },
+    "33": {
+        "found_path": true,
+        "num_samples": 142,
+        "n_tries_to_place_node": 2298,
+        "path_distance": 207.08557337336327
+    },
+    "34": {
+        "found_path": true,
+        "num_samples": 43,
+        "n_tries_to_place_node": 1031,
+        "path_distance": 177.5019200343114
+    },
+    "35": {
+        "found_path": true,
+        "num_samples": 236,
+        "n_tries_to_place_node": 11091,
+        "path_distance": 229.27331337765216
+    },
+    "36": {
+        "found_path": true,
+        "num_samples": 176,
+        "n_tries_to_place_node": 2636,
+        "path_distance": 236.66922671241517
+    },
+    "37": {
+        "found_path": true,
+        "num_samples": 442,
+        "n_tries_to_place_node": 12252,
+        "path_distance": 214.4814867081262
+    },
+    "38": {
+        "found_path": false,
+        "num_samples": 921,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "39": {
+        "found_path": true,
+        "num_samples": 50,
+        "n_tries_to_place_node": 549,
+        "path_distance": 184.89783336907436
+    },
+    "40": {
+        "found_path": false,
+        "num_samples": 431,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "41": {
+        "found_path": true,
+        "num_samples": 126,
+        "n_tries_to_place_node": 2493,
+        "path_distance": 199.6896600386003
+    },
+    "42": {
+        "found_path": true,
+        "num_samples": 67,
+        "n_tries_to_place_node": 1832,
+        "path_distance": 214.48148670812623
+    },
+    "43": {
+        "found_path": true,
+        "num_samples": 1609,
+        "n_tries_to_place_node": 18389,
+        "path_distance": 236.66922671241525
+    },
+    "44": {
+        "found_path": false,
+        "num_samples": 1467,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "45": {
+        "found_path": true,
+        "num_samples": 135,
+        "n_tries_to_place_node": 16023,
+        "path_distance": 184.89783336907433
+    },
+    "46": {
+        "found_path": true,
+        "num_samples": 51,
+        "n_tries_to_place_node": 336,
+        "path_distance": 170.10600669954837
+    },
+    "47": {
+        "found_path": true,
+        "num_samples": 106,
+        "n_tries_to_place_node": 5119,
+        "path_distance": 221.8774000428893
+    },
+    "48": {
+        "found_path": true,
+        "num_samples": 108,
+        "n_tries_to_place_node": 1452,
+        "path_distance": 207.08557337336333
+    },
+    "49": {
+        "found_path": true,
+        "num_samples": 162,
+        "n_tries_to_place_node": 2481,
+        "path_distance": 214.48148670812623
+    },
+    "50": {
+        "found_path": true,
+        "num_samples": 89,
+        "n_tries_to_place_node": 2293,
+        "path_distance": 177.50192003431133
+    },
+    "51": {
+        "found_path": false,
+        "num_samples": 641,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "52": {
+        "found_path": true,
+        "num_samples": 502,
+        "n_tries_to_place_node": 6209,
+        "path_distance": 273.64879338623
+    },
+    "53": {
+        "found_path": true,
+        "num_samples": 220,
+        "n_tries_to_place_node": 11384,
+        "path_distance": 192.29374670383731
+    },
+    "54": {
+        "found_path": true,
+        "num_samples": 99,
+        "n_tries_to_place_node": 1993,
+        "path_distance": 192.29374670383731
+    },
+    "55": {
+        "found_path": true,
+        "num_samples": 501,
+        "n_tries_to_place_node": 3933,
+        "path_distance": 192.29374670383734
+    },
+    "56": {
+        "found_path": true,
+        "num_samples": 106,
+        "n_tries_to_place_node": 3028,
+        "path_distance": 214.48148670812625
+    },
+    "57": {
+        "found_path": true,
+        "num_samples": 381,
+        "n_tries_to_place_node": 6447,
+        "path_distance": 192.29374670383731
+    },
+    "58": {
+        "found_path": true,
+        "num_samples": 228,
+        "n_tries_to_place_node": 2703,
+        "path_distance": 221.8774000428892
+    },
+    "59": {
+        "found_path": true,
+        "num_samples": 42,
+        "n_tries_to_place_node": 862,
+        "path_distance": 192.29374670383737
+    },
+    "60": {
+        "found_path": true,
+        "num_samples": 166,
+        "n_tries_to_place_node": 3494,
+        "path_distance": 199.68966003860032
+    },
+    "61": {
+        "found_path": true,
+        "num_samples": 128,
+        "n_tries_to_place_node": 3887,
+        "path_distance": 207.08557337336325
+    },
+    "62": {
+        "found_path": true,
+        "num_samples": 124,
+        "n_tries_to_place_node": 6721,
+        "path_distance": 184.8978333690744
+    },
+    "63": {
+        "found_path": true,
+        "num_samples": 149,
+        "n_tries_to_place_node": 12017,
+        "path_distance": 199.6896600386003
+    },
+    "64": {
+        "found_path": false,
+        "num_samples": 2000,
+        "n_tries_to_place_node": 15862,
+        "path_distance": 0
+    },
+    "65": {
+        "found_path": true,
+        "num_samples": 251,
+        "n_tries_to_place_node": 5593,
+        "path_distance": 214.48148670812625
+    },
+    "66": {
+        "found_path": true,
+        "num_samples": 69,
+        "n_tries_to_place_node": 2187,
+        "path_distance": 199.68966003860035
+    },
+    "67": {
+        "found_path": false,
+        "num_samples": 668,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "68": {
+        "found_path": true,
+        "num_samples": 204,
+        "n_tries_to_place_node": 14657,
+        "path_distance": 177.5019200343113
+    },
+    "69": {
+        "found_path": true,
+        "num_samples": 55,
+        "n_tries_to_place_node": 741,
+        "path_distance": 184.89783336907433
+    },
+    "70": {
+        "found_path": true,
+        "num_samples": 763,
+        "n_tries_to_place_node": 11570,
+        "path_distance": 310.62836006004477
+    },
+    "71": {
+        "found_path": true,
+        "num_samples": 147,
+        "n_tries_to_place_node": 2117,
+        "path_distance": 184.89783336907433
+    },
+    "72": {
+        "found_path": true,
+        "num_samples": 326,
+        "n_tries_to_place_node": 4341,
+        "path_distance": 236.6692267124152
+    },
+    "73": {
+        "found_path": true,
+        "num_samples": 308,
+        "n_tries_to_place_node": 5055,
+        "path_distance": 221.87740004288924
+    },
+    "74": {
+        "found_path": true,
+        "num_samples": 94,
+        "n_tries_to_place_node": 1239,
+        "path_distance": 177.50192003431135
+    },
+    "75": {
+        "found_path": false,
+        "num_samples": 47,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "76": {
+        "found_path": true,
+        "num_samples": 81,
+        "n_tries_to_place_node": 1403,
+        "path_distance": 229.27331337765224
+    },
+    "77": {
+        "found_path": true,
+        "num_samples": 62,
+        "n_tries_to_place_node": 2896,
+        "path_distance": 199.68966003860035
+    },
+    "78": {
+        "found_path": true,
+        "num_samples": 147,
+        "n_tries_to_place_node": 1849,
+        "path_distance": 192.29374670383731
+    },
+    "79": {
+        "found_path": true,
+        "num_samples": 1008,
+        "n_tries_to_place_node": 12409,
+        "path_distance": 295.83653339051887
+    },
+    "80": {
+        "found_path": false,
+        "num_samples": 469,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "81": {
+        "found_path": true,
+        "num_samples": 50,
+        "n_tries_to_place_node": 903,
+        "path_distance": 177.50192003431133
+    },
+    "82": {
+        "found_path": true,
+        "num_samples": 54,
+        "n_tries_to_place_node": 1269,
+        "path_distance": 207.08557337336325
+    },
+    "83": {
+        "found_path": true,
+        "num_samples": 37,
+        "n_tries_to_place_node": 610,
+        "path_distance": 207.0855733733633
+    },
+    "84": {
+        "found_path": true,
+        "num_samples": 531,
+        "n_tries_to_place_node": 12174,
+        "path_distance": 229.2733133776522
+    },
+    "85": {
+        "found_path": true,
+        "num_samples": 579,
+        "n_tries_to_place_node": 16902,
+        "path_distance": 214.48148670812625
+    },
+    "86": {
+        "found_path": true,
+        "num_samples": 59,
+        "n_tries_to_place_node": 1307,
+        "path_distance": 184.89783336907433
+    },
+    "87": {
+        "found_path": true,
+        "num_samples": 576,
+        "n_tries_to_place_node": 5883,
+        "path_distance": 221.87740004288924
+    },
+    "88": {
+        "found_path": false,
+        "num_samples": 1486,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "89": {
+        "found_path": true,
+        "num_samples": 164,
+        "n_tries_to_place_node": 10594,
+        "path_distance": 214.4814867081263
+    },
+    "90": {
+        "found_path": true,
+        "num_samples": 49,
+        "n_tries_to_place_node": 1684,
+        "path_distance": 207.08557337336327
+    },
+    "91": {
+        "found_path": true,
+        "num_samples": 137,
+        "n_tries_to_place_node": 2311,
+        "path_distance": 192.29374670383731
+    },
+    "92": {
+        "found_path": true,
+        "num_samples": 72,
+        "n_tries_to_place_node": 1228,
+        "path_distance": 214.48148670812625
+    },
+    "93": {
+        "found_path": true,
+        "num_samples": 270,
+        "n_tries_to_place_node": 10746,
+        "path_distance": 236.6692267124152
+    },
+    "94": {
+        "found_path": true,
+        "num_samples": 200,
+        "n_tries_to_place_node": 2114,
+        "path_distance": 229.27331337765222
+    },
+    "95": {
+        "found_path": true,
+        "num_samples": 486,
+        "n_tries_to_place_node": 6838,
+        "path_distance": 229.27331337765222
+    },
+    "96": {
+        "found_path": true,
+        "num_samples": 324,
+        "n_tries_to_place_node": 3383,
+        "path_distance": 244.06514004717823
+    },
+    "97": {
+        "found_path": true,
+        "num_samples": 170,
+        "n_tries_to_place_node": 2040,
+        "path_distance": 177.50192003431135
+    },
+    "98": {
+        "found_path": true,
+        "num_samples": 107,
+        "n_tries_to_place_node": 15744,
+        "path_distance": 236.6692267124152
+    },
+    "99": {
+        "found_path": false,
+        "num_samples": 1824,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "100": {
+        "found_path": true,
+        "num_samples": 524,
+        "n_tries_to_place_node": 10187,
+        "path_distance": 192.29374670383734
+    },
+    "101": {
+        "found_path": true,
+        "num_samples": 456,
+        "n_tries_to_place_node": 4763,
+        "path_distance": 177.50192003431135
+    },
+    "102": {
+        "found_path": false,
+        "num_samples": 1558,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "103": {
+        "found_path": false,
+        "num_samples": 1888,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "104": {
+        "found_path": true,
+        "num_samples": 79,
+        "n_tries_to_place_node": 2508,
+        "path_distance": 207.0855733733633
+    },
+    "105": {
+        "found_path": false,
+        "num_samples": 776,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "106": {
+        "found_path": true,
+        "num_samples": 83,
+        "n_tries_to_place_node": 3472,
+        "path_distance": 177.5019200343114
+    },
+    "107": {
+        "found_path": true,
+        "num_samples": 79,
+        "n_tries_to_place_node": 2463,
+        "path_distance": 214.48148670812625
+    },
+    "108": {
+        "found_path": true,
+        "num_samples": 239,
+        "n_tries_to_place_node": 7922,
+        "path_distance": 258.85696671670416
+    },
+    "109": {
+        "found_path": true,
+        "num_samples": 140,
+        "n_tries_to_place_node": 1969,
+        "path_distance": 266.2528800514671
+    },
+    "110": {
+        "found_path": false,
+        "num_samples": 61,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "111": {
+        "found_path": false,
+        "num_samples": 1920,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "112": {
+        "found_path": true,
+        "num_samples": 309,
+        "n_tries_to_place_node": 4569,
+        "path_distance": 199.68966003860027
+    },
+    "113": {
+        "found_path": true,
+        "num_samples": 168,
+        "n_tries_to_place_node": 2051,
+        "path_distance": 199.68966003860032
+    },
+    "114": {
+        "found_path": true,
+        "num_samples": 54,
+        "n_tries_to_place_node": 387,
+        "path_distance": 162.7100933647854
+    },
+    "115": {
+        "found_path": true,
+        "num_samples": 798,
+        "n_tries_to_place_node": 16943,
+        "path_distance": 184.89783336907433
+    },
+    "116": {
+        "found_path": false,
+        "num_samples": 3,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "117": {
+        "found_path": true,
+        "num_samples": 979,
+        "n_tries_to_place_node": 8841,
+        "path_distance": 273.64879338623007
+    },
+    "118": {
+        "found_path": true,
+        "num_samples": 597,
+        "n_tries_to_place_node": 12233,
+        "path_distance": 214.4814867081263
+    },
+    "119": {
+        "found_path": false,
+        "num_samples": 612,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "120": {
+        "found_path": true,
+        "num_samples": 330,
+        "n_tries_to_place_node": 5856,
+        "path_distance": 199.68966003860027
+    },
+    "121": {
+        "found_path": true,
+        "num_samples": 106,
+        "n_tries_to_place_node": 2025,
+        "path_distance": 244.06514004717815
+    },
+    "122": {
+        "found_path": true,
+        "num_samples": 359,
+        "n_tries_to_place_node": 8364,
+        "path_distance": 325.42018672957073
+    },
+    "123": {
+        "found_path": true,
+        "num_samples": 189,
+        "n_tries_to_place_node": 4429,
+        "path_distance": 229.27331337765227
+    },
+    "124": {
+        "found_path": true,
+        "num_samples": 168,
+        "n_tries_to_place_node": 2278,
+        "path_distance": 199.68966003860032
+    },
+    "125": {
+        "found_path": true,
+        "num_samples": 598,
+        "n_tries_to_place_node": 11238,
+        "path_distance": 258.8569667167041
+    },
+    "126": {
+        "found_path": true,
+        "num_samples": 113,
+        "n_tries_to_place_node": 1774,
+        "path_distance": 199.68966003860032
+    },
+    "127": {
+        "found_path": false,
+        "num_samples": 930,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "128": {
+        "found_path": true,
+        "num_samples": 60,
+        "n_tries_to_place_node": 2640,
+        "path_distance": 199.6896600386003
+    },
+    "129": {
+        "found_path": true,
+        "num_samples": 118,
+        "n_tries_to_place_node": 1339,
+        "path_distance": 199.68966003860027
+    },
+    "130": {
+        "found_path": true,
+        "num_samples": 100,
+        "n_tries_to_place_node": 1205,
+        "path_distance": 221.8774000428892
+    },
+    "131": {
+        "found_path": true,
+        "num_samples": 225,
+        "n_tries_to_place_node": 6678,
+        "path_distance": 244.06514004717806
+    },
+    "132": {
+        "found_path": true,
+        "num_samples": 95,
+        "n_tries_to_place_node": 927,
+        "path_distance": 199.68966003860027
+    },
+    "133": {
+        "found_path": true,
+        "num_samples": 166,
+        "n_tries_to_place_node": 8408,
+        "path_distance": 199.68966003860027
+    },
+    "134": {
+        "found_path": false,
+        "num_samples": 262,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "135": {
+        "found_path": true,
+        "num_samples": 300,
+        "n_tries_to_place_node": 3246,
+        "path_distance": 266.252880051467
+    },
+    "136": {
+        "found_path": true,
+        "num_samples": 94,
+        "n_tries_to_place_node": 2707,
+        "path_distance": 251.46105338194118
+    },
+    "137": {
+        "found_path": true,
+        "num_samples": 685,
+        "n_tries_to_place_node": 14436,
+        "path_distance": 229.27331337765227
+    },
+    "138": {
+        "found_path": true,
+        "num_samples": 149,
+        "n_tries_to_place_node": 2282,
+        "path_distance": 214.48148670812628
+    },
+    "139": {
+        "found_path": true,
+        "num_samples": 172,
+        "n_tries_to_place_node": 3362,
+        "path_distance": 207.0855733733633
+    },
+    "140": {
+        "found_path": false,
+        "num_samples": 587,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "141": {
+        "found_path": true,
+        "num_samples": 179,
+        "n_tries_to_place_node": 5435,
+        "path_distance": 192.29374670383731
+    },
+    "142": {
+        "found_path": true,
+        "num_samples": 148,
+        "n_tries_to_place_node": 1254,
+        "path_distance": 207.08557337336325
+    },
+    "143": {
+        "found_path": true,
+        "num_samples": 43,
+        "n_tries_to_place_node": 2877,
+        "path_distance": 199.6896600386003
+    },
+    "144": {
+        "found_path": true,
+        "num_samples": 260,
+        "n_tries_to_place_node": 8334,
+        "path_distance": 236.66922671241517
+    },
+    "145": {
+        "found_path": true,
+        "num_samples": 473,
+        "n_tries_to_place_node": 5744,
+        "path_distance": 199.6896600386003
+    },
+    "146": {
+        "found_path": true,
+        "num_samples": 167,
+        "n_tries_to_place_node": 2950,
+        "path_distance": 214.48148670812628
+    },
+    "147": {
+        "found_path": true,
+        "num_samples": 996,
+        "n_tries_to_place_node": 11824,
+        "path_distance": 281.04470672099296
+    },
+    "148": {
+        "found_path": true,
+        "num_samples": 700,
+        "n_tries_to_place_node": 7608,
+        "path_distance": 199.6896600386003
+    },
+    "149": {
+        "found_path": true,
+        "num_samples": 357,
+        "n_tries_to_place_node": 6228,
+        "path_distance": 207.0855733733633
+    },
+    "150": {
+        "found_path": false,
+        "num_samples": 906,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "151": {
+        "found_path": true,
+        "num_samples": 65,
+        "n_tries_to_place_node": 2244,
+        "path_distance": 214.48148670812625
+    },
+    "152": {
+        "found_path": false,
+        "num_samples": 34,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "153": {
+        "found_path": true,
+        "num_samples": 914,
+        "n_tries_to_place_node": 8434,
+        "path_distance": 184.8978333690744
+    },
+    "154": {
+        "found_path": true,
+        "num_samples": 177,
+        "n_tries_to_place_node": 2313,
+        "path_distance": 207.0855733733633
+    },
+    "155": {
+        "found_path": true,
+        "num_samples": 98,
+        "n_tries_to_place_node": 1298,
+        "path_distance": 192.29374670383737
+    },
+    "156": {
+        "found_path": true,
+        "num_samples": 143,
+        "n_tries_to_place_node": 7256,
+        "path_distance": 244.06514004717818
+    },
+    "157": {
+        "found_path": true,
+        "num_samples": 118,
+        "n_tries_to_place_node": 838,
+        "path_distance": 177.50192003431135
+    },
+    "158": {
+        "found_path": true,
+        "num_samples": 1063,
+        "n_tries_to_place_node": 19712,
+        "path_distance": 244.06514004717812
+    },
+    "159": {
+        "found_path": true,
+        "num_samples": 147,
+        "n_tries_to_place_node": 1233,
+        "path_distance": 214.48148670812623
+    },
+    "160": {
+        "found_path": true,
+        "num_samples": 380,
+        "n_tries_to_place_node": 8335,
+        "path_distance": 207.0855733733633
+    },
+    "161": {
+        "found_path": true,
+        "num_samples": 174,
+        "n_tries_to_place_node": 1978,
+        "path_distance": 207.08557337336327
+    },
+    "162": {
+        "found_path": true,
+        "num_samples": 236,
+        "n_tries_to_place_node": 12487,
+        "path_distance": 199.6896600386003
+    },
+    "163": {
+        "found_path": true,
+        "num_samples": 287,
+        "n_tries_to_place_node": 2492,
+        "path_distance": 170.1060066995484
+    },
+    "164": {
+        "found_path": false,
+        "num_samples": 2000,
+        "n_tries_to_place_node": 18435,
+        "path_distance": 0
+    },
+    "165": {
+        "found_path": false,
+        "num_samples": 2000,
+        "n_tries_to_place_node": 16701,
+        "path_distance": 0
+    },
+    "166": {
+        "found_path": true,
+        "num_samples": 226,
+        "n_tries_to_place_node": 3001,
+        "path_distance": 229.27331337765224
+    },
+    "167": {
+        "found_path": true,
+        "num_samples": 345,
+        "n_tries_to_place_node": 5224,
+        "path_distance": 221.87740004288924
+    },
+    "168": {
+        "found_path": true,
+        "num_samples": 168,
+        "n_tries_to_place_node": 1414,
+        "path_distance": 229.27331337765222
+    },
+    "169": {
+        "found_path": true,
+        "num_samples": 235,
+        "n_tries_to_place_node": 3439,
+        "path_distance": 214.48148670812628
+    },
+    "170": {
+        "found_path": true,
+        "num_samples": 312,
+        "n_tries_to_place_node": 3420,
+        "path_distance": 199.68966003860032
+    },
+    "171": {
+        "found_path": true,
+        "num_samples": 354,
+        "n_tries_to_place_node": 5078,
+        "path_distance": 244.06514004717818
+    },
+    "172": {
+        "found_path": true,
+        "num_samples": 106,
+        "n_tries_to_place_node": 858,
+        "path_distance": 177.50192003431138
+    },
+    "173": {
+        "found_path": true,
+        "num_samples": 66,
+        "n_tries_to_place_node": 1103,
+        "path_distance": 192.29374670383734
+    },
+    "174": {
+        "found_path": false,
+        "num_samples": 1185,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "175": {
+        "found_path": true,
+        "num_samples": 230,
+        "n_tries_to_place_node": 3730,
+        "path_distance": 207.08557337336333
+    },
+    "176": {
+        "found_path": true,
+        "num_samples": 231,
+        "n_tries_to_place_node": 2284,
+        "path_distance": 177.50192003431135
+    },
+    "177": {
+        "found_path": false,
+        "num_samples": 491,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "178": {
+        "found_path": true,
+        "num_samples": 276,
+        "n_tries_to_place_node": 4017,
+        "path_distance": 221.87740004288926
+    },
+    "179": {
+        "found_path": true,
+        "num_samples": 49,
+        "n_tries_to_place_node": 739,
+        "path_distance": 207.08557337336325
+    },
+    "180": {
+        "found_path": true,
+        "num_samples": 108,
+        "n_tries_to_place_node": 12963,
+        "path_distance": 184.89783336907436
+    },
+    "181": {
+        "found_path": true,
+        "num_samples": 137,
+        "n_tries_to_place_node": 4447,
+        "path_distance": 229.27331337765227
+    },
+    "182": {
+        "found_path": true,
+        "num_samples": 219,
+        "n_tries_to_place_node": 2454,
+        "path_distance": 199.68966003860032
+    },
+    "183": {
+        "found_path": true,
+        "num_samples": 93,
+        "n_tries_to_place_node": 1719,
+        "path_distance": 184.89783336907436
+    },
+    "184": {
+        "found_path": true,
+        "num_samples": 453,
+        "n_tries_to_place_node": 4723,
+        "path_distance": 251.46105338194113
+    },
+    "185": {
+        "found_path": true,
+        "num_samples": 1252,
+        "n_tries_to_place_node": 14709,
+        "path_distance": 273.64879338623007
+    },
+    "186": {
+        "found_path": true,
+        "num_samples": 1136,
+        "n_tries_to_place_node": 9252,
+        "path_distance": 184.89783336907436
+    },
+    "187": {
+        "found_path": true,
+        "num_samples": 476,
+        "n_tries_to_place_node": 16932,
+        "path_distance": 251.46105338194118
+    },
+    "188": {
+        "found_path": true,
+        "num_samples": 112,
+        "n_tries_to_place_node": 888,
+        "path_distance": 192.29374670383731
+    },
+    "189": {
+        "found_path": true,
+        "num_samples": 216,
+        "n_tries_to_place_node": 4672,
+        "path_distance": 192.29374670383734
+    },
+    "190": {
+        "found_path": true,
+        "num_samples": 835,
+        "n_tries_to_place_node": 14967,
+        "path_distance": 281.04470672099296
+    },
+    "191": {
+        "found_path": true,
+        "num_samples": 224,
+        "n_tries_to_place_node": 2945,
+        "path_distance": 207.08557337336322
+    },
+    "192": {
+        "found_path": true,
+        "num_samples": 52,
+        "n_tries_to_place_node": 1131,
+        "path_distance": 170.1060066995484
+    },
+    "193": {
+        "found_path": true,
+        "num_samples": 487,
+        "n_tries_to_place_node": 4832,
+        "path_distance": 266.25288005146706
+    },
+    "194": {
+        "found_path": true,
+        "num_samples": 132,
+        "n_tries_to_place_node": 3016,
+        "path_distance": 192.29374670383737
+    },
+    "195": {
+        "found_path": false,
+        "num_samples": 323,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "196": {
+        "found_path": true,
+        "num_samples": 82,
+        "n_tries_to_place_node": 965,
+        "path_distance": 177.50192003431135
+    },
+    "197": {
+        "found_path": false,
+        "num_samples": 559,
+        "n_tries_to_place_node": 20000,
+        "path_distance": 0
+    },
+    "198": {
+        "found_path": true,
+        "num_samples": 329,
+        "n_tries_to_place_node": 8880,
+        "path_distance": 207.08557337336327
+    },
+    "199": {
+        "found_path": true,
+        "num_samples": 191,
+        "n_tries_to_place_node": 2787,
+        "path_distance": 207.0855733733633
+    },
+    "200": {
+        "found_path": true,
+        "num_samples": 435,
+        "n_tries_to_place_node": 6014,
+        "path_distance": 266.25288005146706
+    },
+    "summary": {
+        "n_trials": 200,
+        "num_success": 170,
+        "success_rate": 0.85,
+        "avg_distance": 181.97644760184292,
+        "avg_num_samples": 374.245
+    }
+}

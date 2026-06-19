@@ -153,6 +153,10 @@ class rrt_tree(object):
             int: The total number of nodes in the tree.
         """
         return self.tree.size()
+    
+    def reset(self):
+        self.tree = Tree()
+        self.add_node(self.space.start)
 
 
 class ArrayHolder:

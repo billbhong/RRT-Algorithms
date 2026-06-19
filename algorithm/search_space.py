@@ -48,10 +48,10 @@ class space(object):
         """
         Generates random rectangular obstacles and adds border obstacles to the search space.
         """
-        self.rectangles = self.generate_rectangles()
-        self.rectangles = np.append(self.rectangles, self.generate_border(), axis=1)
+        self.rectangles = self._generate_rectangles()
+        self.rectangles = np.append(self.rectangles, self._generate_border(), axis=1)
 
-    def generate_border(self):
+    def _generate_border(self):
         """
         Generates border obstacles around the workspace to prevent paths from exiting the boundaries.
 
@@ -72,10 +72,10 @@ class space(object):
 
         return np.array([x_min, y_min, x_max, y_max])
 
-    def generate_rectangles(self):
+    def _generate_rectangles(self):
         # Initial generation
-        widths, heights = self.generate_rect_sizes(self.n_rectangles, self.rect_sizes)
-        x_min, y_min = self.generate_rect_starting_pose(widths, heights)
+        widths, heights = self._generate_rect_sizes(self.n_rectangles, self.rect_sizes)
+        x_min, y_min = self._generate_rect_starting_pose(widths, heights)
         x_max = x_min + widths
         y_max = y_min + heights
 
@@ -104,8 +104,8 @@ class space(object):
             nb = bad.size
 
             # widths/heights -> new x_min,y_min -> new x_max,y_max
-            w_new, h_new = self.generate_rect_sizes(nb, self.rect_sizes)
-            x_min_new, y_min_new = self.generate_rect_starting_pose(w_new, h_new)
+            w_new, h_new = self._generate_rect_sizes(nb, self.rect_sizes)
+            x_min_new, y_min_new = self._generate_rect_starting_pose(w_new, h_new)
 
             widths[bad] = w_new
             heights[bad] = h_new
@@ -116,7 +116,7 @@ class space(object):
 
         return np.array([x_min, y_min, x_max, y_max])
 
-    def generate_rect_sizes(self, n: int, rect_sizes):
+    def _generate_rect_sizes(self, n: int, rect_sizes):
         """
         Sample n widths/heights from rect_sizes.
         Returns two arrays of shape (n,): widths, heights.
@@ -126,7 +126,7 @@ class space(object):
         heights = np.random.rand(n) * (h_max - h_min) + h_min
         return widths, heights
 
-    def generate_rect_starting_pose(self, widths, heights):
+    def _generate_rect_starting_pose(self, widths, heights):
         """
         Given arrays widths and heights of length n,
         sample bottom-left corners so each rect fits in [0..bounds].
@@ -157,7 +157,7 @@ class space(object):
 
         # Compute intersection points between the path and each side of all rectangles.
         # Each rectangle side is represented by its endpoints.
-        intersection_points_line1 = self.calculate_intersection_points(
+        intersection_points_line1 = self._calculate_intersection_points(
             start,
             end,
             x_min,
@@ -165,7 +165,7 @@ class space(object):
             x_max,
             y_min,  # Bottom side
         )
-        intersection_points_line2 = self.calculate_intersection_points(
+        intersection_points_line2 = self._calculate_intersection_points(
             start,
             end,
             x_max,
@@ -173,7 +173,7 @@ class space(object):
             x_max,
             y_max,  # Right side
         )
-        intersection_points_line3 = self.calculate_intersection_points(
+        intersection_points_line3 = self._calculate_intersection_points(
             start,
             end,
             x_max,
@@ -181,7 +181,7 @@ class space(object):
             x_min,
             y_max,  # Top side
         )
-        intersection_points_line4 = self.calculate_intersection_points(
+        intersection_points_line4 = self._calculate_intersection_points(
             start,
             end,
             x_min,
@@ -244,7 +244,7 @@ class space(object):
         # If no collisions are detected, the path is considered collision-free.
         return True
 
-    def calculate_intersection_points(
+    def _calculate_intersection_points(
         self,
         start: np.ndarray,
         end: np.ndarray,
