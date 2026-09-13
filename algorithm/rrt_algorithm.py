@@ -28,7 +28,7 @@ class RRT:
         self.step_size = step_size
         self.theta = theta
         self.turn_chance = turn_chance
-        self.bias_chance = turn_chance
+        self.bias_chance = bias_chance
         self.rrt_tree = rrt_tree(space, step_size, theta, turn_chance)
         self.live = live
         self.plot_result = plot_result
