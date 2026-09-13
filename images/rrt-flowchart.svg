@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="140" viewBox="0 0 860 140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>How the RRT algorithm works</title>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7a828e"/>
+    </marker>
+  </defs>
+
+  <!-- Edges -->
+  <g fill="none" stroke="#7a828e" stroke-width="1.5">
+    <path d="M72,70 H104" marker-end="url(#arrow)"/>
+    <path d="M214,70 H246" marker-end="url(#arrow)"/>
+    <path d="M356,70 H388" marker-end="url(#arrow)"/>
+    <path d="M508,70 H604" marker-end="url(#arrow)"/>
+    <path d="M704,70 H752" marker-end="url(#arrow)"/>
+    <!-- Collision? yes: sample again -->
+    <path d="M448,38 V22 Q448,14 440,14 H167 Q159,14 159,22 V46" marker-end="url(#arrow)"/>
+    <!-- At goal? no: sample again -->
+    <path d="M654,100 V118 Q654,126 646,126 H167 Q159,126 159,118 V94" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- Edge labels -->
+  <g fill="#7a828e" font-size="12" dominant-baseline="central">
+    <text x="556" y="60" text-anchor="middle">No: add node</text>
+    <text x="728" y="60" text-anchor="middle">Yes</text>
+    <text x="456" y="27">Yes</text>
+    <text x="662" y="113">No</text>
+  </g>
+
+  <!-- Nodes -->
+  <g fill="#ddf4ff" stroke="#4493f8" stroke-width="1.5">
+    <rect x="8" y="52" width="64" height="36" rx="18"/>
+    <rect x="104" y="46" width="110" height="48" rx="6"/>
+    <rect x="246" y="46" width="110" height="48" rx="6"/>
+    <polygon points="448,38 508,70 448,102 388,70"/>
+    <polygon points="654,40 704,70 654,100 604,70"/>
+    <rect x="752" y="52" width="100" height="36" rx="18"/>
+  </g>
+
+  <!-- Node labels -->
+  <g fill="#1f2328" font-size="14" text-anchor="middle" dominant-baseline="central">
+    <text x="40" y="70">Start</text>
+    <text x="159" y="61">Sample point</text>
+    <text x="159" y="79">(goal bias)</text>
+    <text x="301" y="61">Steer from</text>
+    <text x="301" y="79">nearest node</text>
+    <text x="448" y="70">Collision?</text>
+    <text x="654" y="70">At goal?</text>
+    <text x="802" y="70">Path found</text>
+  </g>
+</svg>
